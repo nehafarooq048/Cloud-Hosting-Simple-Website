@@ -44,5 +44,7 @@ Disclaimer:
 
 ---
 
-## 📂 Folder Structure
+Live at:
+**Github:**  https://nehafarooq048.github.io/Cloud-Hosting-Simple-Website/
+**Nelify:** https://cloudhostingwebsitedemo.netlify.app/
 
